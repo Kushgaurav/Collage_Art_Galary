@@ -11,7 +11,8 @@ How to run the Art Gallery Management System (agms) Project
 
 6. Import agmsdb.sql file(given inside the zip package in the SQL file folder)
 
-7. Run the script http://localhost/agms
+7. Run the script http://localhost/Collage_Art_Galary
+
 
 Credential for Admin panel :
 
